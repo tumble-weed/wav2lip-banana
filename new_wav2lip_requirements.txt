@@ -1,0 +1,18 @@
+# librosa==0.7.0
+# Aniket: fix librosa error
+librosa
+#Aniket: fix numpy error
+# numpy==1.17.1
+numpy
+opencv-contrib-python>=4.2.0.34
+# Aniket: fix opencv error
+# opencv-python==4.1.0.25
+opencv-python==4.5.5.64
+# Aniket: torch error
+# torch==1.1.0
+# torchvision==0.3.0
+torch
+torchvision
+tqdm==4.45.0
+# Aniket: numba error
+numba
